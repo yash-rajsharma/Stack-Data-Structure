@@ -1,4 +1,4 @@
-# Stack Data
+# Stack Data Structure
 
 This repository contains implementations of the **Stack** data structure in JavaScript using two different approaches: a **linked list** and an **array**.
 
